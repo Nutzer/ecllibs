@@ -1,0 +1,15 @@
+/*            LibECL           */
+/*  BH: Assigns names to 
+        bullet transformations */
+
+global[BH_INS_STEP] = 2;
+global[BH_INS_AIMACC] = 4;
+global[BH_INS_CHDIR] = 8;
+global[BH_INS_CHSPD] = 16;
+global[BH_INS_CHCOMPLEX] = 64;
+global[BH_INS_WAIT] = 1024;
+global[BH_INS_CHSPR] = 2048;
+global[BH_INS_TOZERO] = 4096;
+global[BH_INS_CANCEL] = 8192;
+global[BH_INS_SETADDITIVE] = 268435456;
+global[BH_INS_CHDIRSPD] = 536870912;
