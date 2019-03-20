@@ -125,6 +125,8 @@ eclmap
 447 ? set_time_step
 448 ? wait_by_diff
 453 ? ent_set_hit_se
+455 ? ent_id_get_alive
+456 ? ent_id_get_pos
 459 ? ent_set_shot_chance
 500 ? bh_create
 501 ? bh_start

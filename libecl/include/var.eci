@@ -69,3 +69,5 @@ global[RETURNf] = [-9979.0f];
 global[RESULTf] = [-9979.0f];
 global[RETURN] = [-9979];
 global[RESULT] = [-9979];
+
+global[ENTID] = [-9931];

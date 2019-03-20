@@ -4,6 +4,7 @@
 
 #include "libecl/include/bh.eci"
 #include "libecl/include/var.eci"
+#include "libecl/include/sprite.eci"
 
 global[NIL] = -99999;
 global[NILf] = -99999.0f;
